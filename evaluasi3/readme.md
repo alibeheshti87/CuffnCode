@@ -1,0 +1,1 @@
+Program ini merupakan simulasi sederhana sistem lampu otomatis yang menggunakan konsep parallel computing (multithreading) di Python. Sistem ini bekerja dengan membaca kondisi lingkungan seperti tingkat cahaya dan adanya gerakan, lalu menentukan apakah lampu perlu dinyalakan atau dimatikan.
